@@ -3,7 +3,7 @@
 
 # 📖 [TO-DO-LIST] <a name="about-project"></a>
 
-> A TO-DO website that dynamically load user's to do list .
+> A TO-DO website dynamically loads user's to do list .
 
 **[TO-DO-LIST]** is a Module 2 project from microverse.
 
